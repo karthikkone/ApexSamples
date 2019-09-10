@@ -1,4 +1,4 @@
-/*test class with soql viaolations to be scanned by code scanner*/
+/*test class with soql violations to be scanned by code scanner*/
 @isTest
 public class testhello {
    public hello() {
