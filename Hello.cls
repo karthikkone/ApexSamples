@@ -1,4 +1,6 @@
-/*sample class with soql violations*/
+/**
+*sample class with soql violations
+*/
 public class hello {
    public hello() {
    	for(Integer i = 0; i < 5; i++) {
