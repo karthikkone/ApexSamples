@@ -2,7 +2,7 @@
 @isTest
 public class testhello {
    public hello() {
-   	for(Integer i = 0; i < 5; i++) {
+   	for(Integer i = 0; i < 10; i++) {
 		Account a = [SELECT Id,Name FROM Account WHERE Name='Barclays'][0];
 	}
    }
