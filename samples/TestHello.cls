@@ -1,4 +1,4 @@
-/*test class with soql viaolations  */
+/*test class with soql viaolations    */
 @isTest
 public class testhello {
    public hello() {
