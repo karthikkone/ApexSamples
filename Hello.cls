@@ -1,6 +1,7 @@
 /**
 *sample class with soql violations
 *
+*
 */
 public class hello {
    public hello() {
