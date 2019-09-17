@@ -1,6 +1,6 @@
 /**
 *sample class with soql violations
-*
+*testing bpe scans
 *
 */
 public class hello {
