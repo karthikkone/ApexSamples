@@ -1,4 +1,6 @@
+//This is added again
+//This trigger does not follow naming convention
 Trigger Sample on Account(before insert){
 
-System.debug('Thisssss is a sample trigger');
+System.debug('Sample is a sample trigger');
 }
