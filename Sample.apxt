@@ -1,3 +1,5 @@
+
+//This trigger does not follow naming convention
 Trigger Sample on Account(before insert){
 
 System.debug('Sample is a sample trigger');
