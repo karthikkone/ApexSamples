@@ -1,0 +1,4 @@
+Trigger Sample on Account(before insert){
+
+System.debug('This is a sample trigger');
+}
