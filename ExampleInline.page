@@ -1,4 +1,4 @@
-<!-- this is a page-->
+<!-- commenting on page -->
 <apex:page standardController=\"Account\">\r\n" + 
 				"<script>\r\n" + 
 				"    function changeCase(elId){\r\n" + 
