@@ -1,4 +1,5 @@
 <!-- commenting on page -->
+<!-- checking for inline js -->
 <apex:page standardController=\"Account\">\r\n" + 
 				"<script>\r\n" + 
 				"    function changeCase(elId){\r\n" + 
