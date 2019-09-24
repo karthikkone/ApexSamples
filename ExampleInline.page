@@ -1,5 +1,5 @@
 <!-- adding another comment -->
-<!-- commenting on page -->
+<!-- commenting on page  -->
 <!-- checking for inline js  -->
 <apex:page standardController=\"Account\">\r\n" + 
 				"<script>\r\n" + 
