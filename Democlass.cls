@@ -1,3 +1,6 @@
+/**
+*Democlass for code scan test
+*/
 class Democlass
 {
   List<Account> acc = [SELECT Name from Account];
