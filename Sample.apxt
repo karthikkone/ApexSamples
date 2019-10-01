@@ -1,6 +1,6 @@
 //This is removed 
-//This trigger does not follow naming convention
-Trigger Samples on Account(before delete){
+//This trigger does not follow naming conventions
+Trigger Sample on Account(before delete){
 
 System.debug('Sample is a sample trigger');
 }
