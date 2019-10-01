@@ -7,5 +7,5 @@
 				"</script>\r\n" + 
 				"<apex:form>\r\n" + 
 				"    <apex:inputField value=\"{!account.Name}\" id=\"id1\" onchange=\"changeCase('{!$Component.id1}');\"/>\r\n" + 
-				"</apex:form> \r\n" + 
+				"</apex:form>   \r\n" + 
 				"</apex:page>
