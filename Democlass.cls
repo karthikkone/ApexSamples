@@ -3,8 +3,8 @@
 */
 class Democlass
 {
-  List<Account> acc = [SELECT Names from Account];
-  for(Account a : acc){
-    System.debug('result List is :' +acc);
+  List<Account> accs = [SELECT Names from Account];
+  for(Account a : accs){
+    System.debug('result List is :' +accs);
   }
 }
