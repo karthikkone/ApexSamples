@@ -3,7 +3,7 @@
 				"    function changeCase(elId){\r\n" + 
 				"        var x = document.getElementById(elId);\r\n" + 
 				"        x.value = x.value.toUpperCase();\r\n" + 
-				"    }\r\n" + 
+				"      }\r\n" + 
 				"</script>\r\n" + 
 				"<apex:form>\r\n" + 
 				"    <apex:inputField value=\"{!account.Name}\" id=\"id1\" onchange=\"changeCase('{!$Component.id1}');\"/>\r\n" + 
