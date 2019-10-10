@@ -1,5 +1,5 @@
 //This is the trigger which does not follow naming conventions
-Trigger Sample on Account(before delete){
+Trigger Example on Account(before delete){
 
 System.debug('Sample is a sample trigger');
 }
