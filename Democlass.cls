@@ -1,5 +1,5 @@
 /**
-*Democlass for code scan test
+*Democlass for code scan testing
 */
 class Democlass
 {
