@@ -3,7 +3,7 @@
 */
 class Democlass
 {
-  List<Account> accs = [SELECT Id,Name from Account];
+  List<Account> accs = [SELECT Id,Name,Status from Account];
   for(Account a : accs){
     System.debug('result List is :' +accs);
   }
