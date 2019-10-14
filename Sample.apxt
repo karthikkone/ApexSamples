@@ -1,5 +1,6 @@
 //This is the trigger which does not follow naming conventions
 Trigger Example on Account(before delete){
-
-System.debug('Sample is a sample trigger');
+for(Integer i=0;i<=11;i++){
+    List<Account> acList = [SELECT Name from Account];
+  }
 }
